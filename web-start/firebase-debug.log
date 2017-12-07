@@ -1,0 +1,28 @@
+[debug] [2017-12-02T11:23:49.175Z] ----------------------------------------------------------------------
+[debug] [2017-12-02T11:23:49.182Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\JeanHonoré\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] [2017-12-02T11:23:49.183Z] CLI Version:   3.15.4
+[debug] [2017-12-02T11:23:49.183Z] Platform:      win32
+[debug] [2017-12-02T11:23:49.183Z] Node Version:  v8.9.1
+[debug] [2017-12-02T11:23:49.184Z] Time:          Sat Dec 02 2017 12:23:49 GMT+0100 (Afr. centrale Ouest)
+[debug] [2017-12-02T11:23:49.184Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-12-02T11:23:49.213Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-12-02T11:23:49.215Z] > authorizing via signed-in user
+[debug] [2017-12-02T11:23:49.220Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/friendlychat-web-9aadb  
+ Sat Dec 02 2017 12:23:49 GMT+0100 (Afr. centrale Ouest)
+[debug] [2017-12-02T11:23:54.444Z] <<< HTTP RESPONSE 200
+[debug] [2017-12-02T11:23:54.446Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/friendlychat-web-9aadb/tokens  
+ Sat Dec 02 2017 12:23:54 GMT+0100 (Afr. centrale Ouest)
+[debug] [2017-12-02T11:23:58.458Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from 'D:\GitHub\friendlychat-web\web-start'...
+[info] 
+[debug] [2017-12-02T11:23:58.464Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-web-9aadb  
+ Sat Dec 02 2017 12:23:58 GMT+0100 (Afr. centrale Ouest)
+[debug] [2017-12-02T11:24:04.922Z] <<< HTTP RESPONSE 200
+[debug] [2017-12-02T11:24:04.922Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/875698655549/clients/_:getWebAppConfig  
+ Sat Dec 02 2017 12:24:04 GMT+0100 (Afr. centrale Ouest)
+[debug] [2017-12-02T11:24:11.048Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] +  hosting: Local server: http://localhost:5000
+
